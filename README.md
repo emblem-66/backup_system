@@ -1,15 +1,15 @@
 # backup_system
 My notes on backing up data
 
-## Hardware
+### Hardware
 
 - cmr drives
 
-## Software
+### Software
 
 - rsync
 
-## Filesystem
+### Filesystem
 
 - btrfs
 
