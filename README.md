@@ -12,5 +12,5 @@ My notes on backing up data
 ### Filesystem
 
 - btrfs
-
+- subvolumes per data type (music, documents)
 
